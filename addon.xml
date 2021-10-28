@@ -1,0 +1,12 @@
+﻿<addon id="repository.movieshark" version="2.7.1" name="MovieShark repository" provider-name="MSrepo">
+	<extension point="xbmc.addon.repository" name="MovieShark repository">
+		<info compressed="false">https://repo.mvshrk.xyz/addons.xml</info>
+		<checksum>https://repo.mvshrk.xyz/addons.xml.md5</checksum>
+		<datadir zip="true">https://repo.mvshrk.xyz/plugins/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">MovieShark Repository</summary>
+		<description lang="en">Az MSREPO Magyarország legnagyobb KODI-hoz fejlesztett magyar nyelvű kiegészítőinek tárolóhelye. Itt megtalálod a legismertebb média tartalmait más hasznos kiegészítőkkel egyetemben. A repository semmilyen illegális anyagot nem tartalmaz, az információk nem egyediek – bárki által szabadon hozzáférhetők az interneten. A legtöbb kiegészítőnél maga a jogtulajdonos tette lehetővé a tartalmak ingyenes megtekintését. A telepítésüket senkinek nem ajánljuk, csupán kisérleti jelleggel készültek. A használatukból eredő következményekért a felelősség a felhasználót terheli. </description>
+		<platform>all</platform>
+	</extension>
+</addon>
