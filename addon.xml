@@ -1,4 +1,5 @@
-﻿<addon id="repository.movieshark" version="2.7.2" name="MovieShark repository" provider-name="MSrepo">
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.movieshark" version="2.7.2" name="MovieShark repository" provider-name="MSrepo">
 	<extension point="xbmc.addon.repository" name="MovieShark repository">
 		<dir>
 			<info compressed="false">https://repo.mvshrk.xyz/addons.xml</info>
